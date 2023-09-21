@@ -79,7 +79,7 @@
     "dingtalk": {
       "image_create_prefix": ["画", "draw", "Draw"],
       "port": "8081",
-      "dingtalk_token": "1111",
+      "dingtalk_token": "24e94486d412037ae8b2503bc936414c7d47f1633688f34346e02821cf9504a4",
       "dingtalk_post_token": "",
       "dingtalk_secret": "oP9vb2OiZeMYN4Trs3tGPDiNnW7VdPx50pdVY8BvIr3-AxJFdoyHNbpGSokZ4yxS"
     },
